@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 12px;
    
 }
 
@@ -13,4 +14,13 @@ ul{
 
 ul li{
     list-style: none;
+}
+
+button{
+    background-color: brown;
+    width: 90px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: large;
 }
